@@ -1,0 +1,3 @@
+By looking at the histograms generated in (1), what comments can you make about the skewness of distribution?
+
+most of the histograms show positive skewness, indicating that the data tends to be concentrated on the lower end of the distribution with a tail extending towards higher values. The exceptions are 'Fixed Acidity', 'Free Sulfur Dioxide', 'pH', and 'Alcohol', which appear approximately symmetric with no significant skewness. It's essential to consider the skewness when analyzing the data, as it can influence the choice of statistical methods and modeling techniques.
