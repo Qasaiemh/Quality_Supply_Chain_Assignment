@@ -1,0 +1,6 @@
+# # Question – 1 5.Is it possible to project the test variation for future orders 7 and 8 based on the given data? Why or why not? Is there some additional information that will be needed for this purpose?
+
+It is not possible to project the test variation for future orders 7 and 8 solely based on the given data. 
+The given data includes measurements for specific lots (e.g., Lot No "DLS0081", "DLS0082", etc.)
+ and their corresponding product codes (e.g., "LIF001_B", "LIF001_Y", etc.).
+It also includes the specifications (LSL and USL) for each product code.
